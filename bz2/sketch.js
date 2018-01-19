@@ -15,8 +15,8 @@ function setup() {
   COLOR_0 = color(255, 255, 255);
   COLOR_1 = color(116, 255, 255);
   COLOR_2 = color(147, 207, 255);
-  COLOR_4 = color(153, 136, 236);
   COLOR_3 = color(198, 146, 226);
+  COLOR_4 = color(153, 136, 236);
 
   createCanvas(800, 800);
   w = 5;
