@@ -62,7 +62,7 @@ function draw() {
           break;
 
         case 4:
-          fill(COLOR_4);
+          fill(COLOR_0);
           break;
 
         default:
